@@ -1,8 +1,11 @@
-# portfolio
+# portfólio
 Meu portfólio de apresentação profissional.
 
-## portfolio
-Adicionando icones e fontes ao projeto.
+## ícones
 
-### portfolio
-Adicionado a imagem de background do meu portfólio.
+:package: nova funcionalidade
+:up: atualização
+:beatle: correção de bug
+:checkred_flag: release
+
+
